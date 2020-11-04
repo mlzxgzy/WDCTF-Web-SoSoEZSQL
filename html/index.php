@@ -36,7 +36,7 @@
 
 <body>
 
-<a> Give me your flag, I will tell you if the flag is right. </ a>
+<a> 魔镜魔镜，告诉我我的Flag对不对啊 </ a>
 <form action="" method="post">
 <input type="text" name="query">
 <input type="submit">
